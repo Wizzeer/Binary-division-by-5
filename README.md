@@ -1,0 +1,1 @@
+# Checking if the binary number is divisible by 5
